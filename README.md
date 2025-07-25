@@ -70,4 +70,4 @@ ssh-keygen -t ed25519 -C "your_user@server_ip"
  I will contact you when your key is added to server
 
 
-##**✅️ All Done!**
+**✅️ All Done!**
