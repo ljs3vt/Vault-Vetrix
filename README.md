@@ -68,3 +68,6 @@ ssh-keygen -t ed25519 -C "your_user@server_ip"
 **Send me the public key (`id_ed25519.pub`) — _NOT_ the private key (`id_ed25519`)!**
 
  I will contact you when your key is added to server
+
+
+**✅️ All Done!**
