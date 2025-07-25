@@ -31,12 +31,16 @@ If you don't already have an SSH key:
 
 3. Creating Private & Public key:
    In PuTTYgen, Select ED25519 key (4th checkbox at the bottom)
+   
    Follow steps shown on PuTTYgen to generate
+   
    After generation click (Save Private Key) place it somewhere safe (DO NOT DELETE IT)
+   
    Copy Content in text box above Generate & send it to me
+   
    I will contact you when your key is added to server
 
-4.  Setting up FileZilla:
+5.  Setting up FileZilla:
     Open FileZilla
 
     Go to File → Site Manager
@@ -55,7 +59,10 @@ If you don't already have an SSH key:
 
         Key file: browse to and select id_ed25519.ppk (private key)
    
-
 ### On Linux/macOS:
+
 ```bash
 ssh-keygen -t ed25519 -C "your_user@server_ip"
+```
+
+**Send me the public key (`id_ed25519.pub`) — _NOT_ the private key (`id_ed25519`)!**
