@@ -7,9 +7,8 @@ Welcome! To access the server, you'll use secure SSH key authentication. This gu
 ## 📩 Step 1: Contact Me First
 
 Before continuing, please **contact me** to request access.
-
-> 📬 **Email:** loganvt@proton.me  
-> 📱 **Discord (recommended):** @koala_trash
+  
+> 📱 **Discord:** @koala_trash
 
 Once approved, I will provide you with:
 - The server IP address
