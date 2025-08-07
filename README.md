@@ -48,13 +48,13 @@ If you don't already have an SSH key:
 
         Protocol: SFTP - SSH File Transfer Protocol
 
-        Host: your server’s IP or domain
+        Host: server_ip
 
-        Port: 22 (or whatever SSH port you use)
+        Port: 22
 
         Logon Type: Key file
 
-        User: jesse
+        User: your_user
 
         Key file: browse to and select id_ed25519.ppk (private key)
    
